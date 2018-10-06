@@ -65,7 +65,7 @@ const serverCallback = (req, res) => {
             res.writeHead(status);
             res.end(dataString);
 
-            console.log(`Server respond with status: ${status} on request to /${trimmedPath}`);
+            console.log(`Server responded with status: ${status} on request to /${trimmedPath}`);
         })
     });
 };
