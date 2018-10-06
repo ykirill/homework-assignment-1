@@ -1,0 +1,23 @@
+{
+  "name": "homework-assignment-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ykirill/homework-assignment-1.git"
+  },
+  "keywords": [
+    "simple-rest-api",
+    "homework"
+  ],
+  "author": "Kirill Yakushev",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ykirill/homework-assignment-1/issues"
+  },
+  "homepage": "https://github.com/ykirill/homework-assignment-1#readme"
+}
